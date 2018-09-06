@@ -22,7 +22,7 @@ Agenda :
 
 #------------- Setup SSH for GitHub for user(root) on Ubuntu -----------------#
 
-# ssh-keygen -t rsa -b 4096 -C "keshav.kummari@gmail.com"
+# ssh-keygen -t rsa -b 4096 -C "kpradeepr9@gmail.com"
 
 enter - 3-4 
 
@@ -41,9 +41,9 @@ Identity added: /root/.ssh/id_rsa (/root/.ssh/.ssh/id_rsa)
 
 # ssh -T git@github.com
 
-# sudo git config --global user.name "keshavkummari"
+# sudo git config --global user.name "kpradeepr9"
 
-# sudo git config --global user.email "keshav.kummari@gmail.com"
+# sudo git config --global user.email "kpradeepr9@gmail.com"
 
 # cd java001/ 
 
