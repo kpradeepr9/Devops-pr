@@ -104,9 +104,9 @@ Identity added: /home/ubuntu/.ssh/id_rsa (/home/ubuntu/.ssh/id_rsa)
 
 # git config --global user.name "jenkins"
 
-# git config --global user.email "keshav.kummari@gmail.com"
+# git config --global user.email "kpradeepr9@gmail.com"
 
-# git clone https://github.com/keshavkummari/devops.git
+# git clone https://github.com/kpradeepr9/devops.git
 
 # cd devops/
 
